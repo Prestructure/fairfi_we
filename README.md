@@ -20,4 +20,7 @@ This notebook, while implemented on a potentially shared infrastructure, is a pr
 ## Architecture
 Based on the **Kamiwaza** full-stack, we will attempt to implement a simple **App Garden** implementation of the above hypothesis.
 
-
+## Process
+1. Hello Receipt Notebook
+2. Pythond SDK spp
+3. App Garden
